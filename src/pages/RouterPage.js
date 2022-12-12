@@ -14,7 +14,7 @@ RouterPage() {
     <div>
         <Router>
             <Routes>
-                <Route exact path="/{ReactWeb}" element={<Home/>}></Route>
+                <Route exact path="/ReactWeb" element={<Home/>}></Route>
                 <Route path='/about' element={<About/>}></Route>
                 <Route path='/product' element={<Product/>}></Route>
                 <Route path='/testimonial' element={<Testimonial/>}></Route>
