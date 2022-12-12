@@ -12,7 +12,7 @@ export default function
 RouterPage() {
   return (
     <div>
-        <Router>
+        <Router basename="/ReactWeb">
             <Routes>
                 <Route exact path="/" element={<Home/>}></Route>
                 <Route path='/about' element={<About/>}></Route>
