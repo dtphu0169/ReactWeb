@@ -1,8 +1,8 @@
 Demo: https://dtphu0169.github.io/ReactWeb
 
 ## Đây là dự án luyện tập đưa template html vào và xử lí bằng reactjs
-1. Chức năng thực hiện
-2. Chạy dự án trên localhost
+1. [Chức năng thực hiện](#Chức năng thực hiện)
+2. [Chạy dự án trên localhost] (#Chạy dự án trên localhost)
 
 
 ## Chức năng thực hiện
