@@ -26,7 +26,7 @@ export default function Home() {
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quam velit saepe
                                         dolorem deserunt quo quidem ad optio.
                                     </p>
-                                    <a href="/">
+                                    <a href="#">
                                         Read More
                                     </a>
                                 </div>
@@ -51,7 +51,7 @@ export default function Home() {
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quam velit saepe
                                         dolorem deserunt quo quidem ad optio.
                                     </p>
-                                    <a href="/">
+                                    <a href="#">
                                         Read More
                                     </a>
                                 </div>
@@ -76,7 +76,7 @@ export default function Home() {
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quam velit saepe
                                         dolorem deserunt quo quidem ad optio.
                                     </p>
-                                    <a href="/">
+                                    <a href="#">
                                         Read More
                                     </a>
                                 </div>
@@ -120,7 +120,7 @@ export default function Home() {
                 <div class="box">
                     <div class="img-box">
                         <img src="assets/images/p1.png" alt=""/>
-                        <a href="/" class="add_cart_btn">
+                        <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
                 </span>
@@ -149,7 +149,7 @@ export default function Home() {
                 <div class="box">
                     <div class="img-box">
                         <img src="assets/images/p2.png" alt=""/>
-                        <a href="/" class="add_cart_btn">
+                        <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
                 </span>
@@ -178,7 +178,7 @@ export default function Home() {
                 <div class="box">
                     <div class="img-box">
                         <img src="assets/images/p3.png" alt=""/>
-                        <a href="/" class="add_cart_btn">
+                        <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
                 </span>
@@ -207,7 +207,7 @@ export default function Home() {
                 <div class="box">
                     <div class="img-box">
                         <img src="assets/images/p4.png" alt=""/>
-                        <a href="/" class="add_cart_btn">
+                        <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
                 </span>
@@ -236,7 +236,7 @@ export default function Home() {
                 <div class="box">
                     <div class="img-box">
                         <img src="assets/images/p5.png" alt=""/>
-                        <a href="/" class="add_cart_btn">
+                        <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
                 </span>
@@ -265,7 +265,7 @@ export default function Home() {
                 <div class="box">
                     <div class="img-box">
                         <img src="assets/images/p6.png" alt=""/>
-                        <a href="/" class="add_cart_btn">
+                        <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
                 </span>
@@ -294,7 +294,7 @@ export default function Home() {
                 <div class="box">
                     <div class="img-box">
                         <img src="assets/images/p7.png" alt=""/>
-                        <a href="/" class="add_cart_btn">
+                        <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
                 </span>
@@ -323,7 +323,7 @@ export default function Home() {
                 <div class="box">
                     <div class="img-box">
                         <img src="assets/images/p8.png" alt=""/>
-                        <a href="/" class="add_cart_btn">
+                        <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
                 </span>
@@ -352,7 +352,7 @@ export default function Home() {
                 <div class="box">
                     <div class="img-box">
                         <img src="assets/images/p9.png" alt=""/>
-                        <a href="/" class="add_cart_btn">
+                        <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
                 </span>
@@ -379,7 +379,7 @@ export default function Home() {
             </div>
         </div>
         <div class="btn_box">
-            <a href="/" class="view_more-link">
+            <a href="#" class="view_more-link">
                 View More
             </a>
         </div>
@@ -408,7 +408,7 @@ export default function Home() {
                         consequuntur vitae aperiam animi sint earum, ex unde cupiditate, molestias dolore quos quas
                         possimus eveniet facilis magnam? Vero, dicta.
                     </p>
-                    <a href="/">
+                    <a href="#">
                         Read More
                     </a>
                 </div>

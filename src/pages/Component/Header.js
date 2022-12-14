@@ -43,18 +43,18 @@ Header() {
             <div class="container-fluid">
                 <div class="top_nav_container">
                     <div class="contact_nav">
-                        <a href="/">
+                        <Link class="nav-link" to="/">
                             <i class="fa fa-phone" aria-hidden="true"></i>
                             <span>
                   Call : +01 123455678990
                 </span>
-                        </a>
-                        <a href="/">
+                        </Link>
+                        <Link class="nav-link" to="/">
                             <i class="fa fa-envelope" aria-hidden="true"></i>
                             <span>
                   Email : demo@gmail.com
                 </span>
-                        </a>
+                        </Link>
                     </div>
                     <from class="search_form">
                         <input type="text" class="form-control" placeholder="Search here..."/>
@@ -75,16 +75,16 @@ Header() {
                             </a>
                         ) : 
                         (
-                            <a href="/login" class="account-link">
+                            <Link class="nav-link" to="/login">
                                 <i class="fa fa-user" aria-hidden="true"></i>
                                 <span>
                                     Login
                                 </span>
-                            </a>
+                            </Link>
                         )}
 
                         {(sessionStorage.getItem('name') !== null) ? (
-                            <a href="" onClick={LogoutHandle} class="account-link">
+                            <a href="#" onClick={LogoutHandle} class="account-link">
                                 <i class="fa fa-sign-out" aria-hidden="true"></i>
                                 <span>
                                     Logout
@@ -93,12 +93,12 @@ Header() {
                         ):(<></>)}
                             
 
-                        <a href="/" class="cart-link">
+                        <Link class="nav-link" to="/">
                             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
                             <span>
                   Cart
                 </span>
-                        </a>
+                        </Link>
                     </div>
                 </div>
 
@@ -107,11 +107,11 @@ Header() {
         <div class="header_bottom ">
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg custom_nav-container ">
-                <a class="navbar-brand" href="/">
+                <Link class="nav-link" to="/">
                     <span>
                     Minics
                     </span>
-                </a>
+                </Link>
 
                     <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

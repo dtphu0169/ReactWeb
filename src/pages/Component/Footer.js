@@ -11,7 +11,7 @@ export default function Footer() {
             <div class="col-md-3">
                 <div class="info_contact">
                     <h5>
-                        <a href="/" class="navbar-brand">
+                        <a href="#" class="navbar-brand">
                 <span>
                   Minics
                 </span>
@@ -88,16 +88,16 @@ export default function Footer() {
                         </button>
                     </form>
                     <div class="social_box">
-                        <a href="/">
+                        <a href="#">
                             <i class="fa fa-facebook" aria-hidden="true"></i>
                         </a>
-                        <a href="/">
+                        <a href="#">
                             <i class="fa fa-twitter" aria-hidden="true"></i>
                         </a>
-                        <a href="/">
+                        <a href="#">
                             <i class="fa fa-instagram" aria-hidden="true"></i>
                         </a>
-                        <a href="/">
+                        <a href="#">
                             <i class="fa fa-youtube" aria-hidden="true"></i>
                         </a>
                     </div>

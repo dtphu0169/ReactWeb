@@ -30,7 +30,7 @@ export default function
                 <div class="box">
                 <div class="img-box">
                     <img src="assets/images/p1.png" alt=""/>
-                    <a href="/" class="add_cart_btn">
+                    <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
                     </span>
@@ -59,7 +59,7 @@ export default function
                 <div class="box">
                 <div class="img-box">
                     <img src="assets/images/p2.png" alt=""/>
-                    <a href="/" class="add_cart_btn">
+                    <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
                     </span>
@@ -88,7 +88,7 @@ export default function
                 <div class="box">
                 <div class="img-box">
                     <img src="assets/images/p3.png" alt=""/>
-                    <a href="/" class="add_cart_btn">
+                    <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
                     </span>
@@ -117,7 +117,7 @@ export default function
                 <div class="box">
                 <div class="img-box">
                     <img src="assets/images/p4.png" alt=""/>
-                    <a href="/" class="add_cart_btn">
+                    <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
                     </span>
@@ -146,7 +146,7 @@ export default function
                 <div class="box">
                 <div class="img-box">
                     <img src="assets/images/p5.png" alt=""/>
-                    <a href="/" class="add_cart_btn">
+                    <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
                     </span>
@@ -175,7 +175,7 @@ export default function
                 <div class="box">
                 <div class="img-box">
                     <img src="assets/images/p6.png" alt=""/>
-                    <a href="/" class="add_cart_btn">
+                    <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
                     </span>
@@ -204,7 +204,7 @@ export default function
                 <div class="box">
                 <div class="img-box">
                     <img src="assets/images/p7.png" alt=""/>
-                    <a href="/" class="add_cart_btn">
+                    <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
                     </span>
@@ -233,7 +233,7 @@ export default function
                 <div class="box">
                 <div class="img-box">
                     <img src="assets/images/p8.png" alt=""/>
-                    <a href="/" class="add_cart_btn">
+                    <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
                     </span>
@@ -262,7 +262,7 @@ export default function
                 <div class="box">
                 <div class="img-box">
                     <img src="assets/images/p9.png" alt=""/>
-                    <a href="/" class="add_cart_btn">
+                    <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
                     </span>
@@ -289,7 +289,7 @@ export default function
             </div>
             </div>
             <div class="btn_box">
-            <a href="/" class="view_more-link">
+            <a href="#" class="view_more-link">
                 View More
             </a>
             </div>
