@@ -1,7 +1,7 @@
 {
   "main.css": "/ReactWeb/static/css/main.6e4edeb2.chunk.css",
-  "main.js": "/ReactWeb/static/js/main.c726e132.chunk.js",
-  "main.js.map": "/ReactWeb/static/js/main.c726e132.chunk.js.map",
+  "main.js": "/ReactWeb/static/js/main.c95f798b.chunk.js",
+  "main.js.map": "/ReactWeb/static/js/main.c95f798b.chunk.js.map",
   "static/js/1.1b3f48c6.chunk.js": "/ReactWeb/static/js/1.1b3f48c6.chunk.js",
   "static/js/1.1b3f48c6.chunk.js.map": "/ReactWeb/static/js/1.1b3f48c6.chunk.js.map",
   "static/js/2.437c29c7.chunk.js": "/ReactWeb/static/js/2.437c29c7.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/logo.svg": "/ReactWeb/static/media/logo.06e73328.svg",
   "static/css/main.6e4edeb2.chunk.css.map": "/ReactWeb/static/css/main.6e4edeb2.chunk.css.map",
   "index.html": "/ReactWeb/index.html",
-  "precache-manifest.484116a45caacab5763e4ad97151ea22.js": "/ReactWeb/precache-manifest.484116a45caacab5763e4ad97151ea22.js",
+  "precache-manifest.5213ecbfdf44e116882580b36e0384ac.js": "/ReactWeb/precache-manifest.5213ecbfdf44e116882580b36e0384ac.js",
   "service-worker.js": "/ReactWeb/service-worker.js"
 }
