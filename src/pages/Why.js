@@ -30,7 +30,7 @@ export default function
       <div class="col-md-4">
         <div class="box ">
           <div class="img-box">
-            <img src="assets/images/w1.png" alt=""/>
+            <img src="ReactWeb/assets/images/w1.png" alt=""/>
           </div>
           <div class="detail-box">
             <h5>
@@ -45,7 +45,7 @@ export default function
       <div class="col-md-4">
         <div class="box ">
           <div class="img-box">
-            <img src="assets/images/w2.png" alt=""/>
+            <img src="ReactWeb/assets/images/w2.png" alt=""/>
           </div>
           <div class="detail-box">
             <h5>
@@ -60,7 +60,7 @@ export default function
       <div class="col-md-4">
         <div class="box ">
           <div class="img-box">
-            <img src="assets/images/w3.png" alt=""/>
+            <img src="ReactWeb/assets/images/w3.png" alt=""/>
           </div>
           <div class="detail-box">
             <h5>

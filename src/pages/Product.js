@@ -29,7 +29,7 @@ export default function
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                 <div class="img-box">
-                    <img src="assets/images/p1.png" alt=""/>
+                    <img src="ReactWeb/assets/images/p1.png" alt=""/>
                     <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
@@ -58,7 +58,7 @@ export default function
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                 <div class="img-box">
-                    <img src="assets/images/p2.png" alt=""/>
+                    <img src="ReactWeb/assets/images/p2.png" alt=""/>
                     <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
@@ -87,7 +87,7 @@ export default function
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                 <div class="img-box">
-                    <img src="assets/images/p3.png" alt=""/>
+                    <img src="ReactWeb/assets/images/p3.png" alt=""/>
                     <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
@@ -116,7 +116,7 @@ export default function
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                 <div class="img-box">
-                    <img src="assets/images/p4.png" alt=""/>
+                    <img src="ReactWeb/assets/images/p4.png" alt=""/>
                     <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
@@ -145,7 +145,7 @@ export default function
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                 <div class="img-box">
-                    <img src="assets/images/p5.png" alt=""/>
+                    <img src="ReactWeb/assets/images/p5.png" alt=""/>
                     <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
@@ -174,7 +174,7 @@ export default function
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                 <div class="img-box">
-                    <img src="assets/images/p6.png" alt=""/>
+                    <img src="ReactWeb/assets/images/p6.png" alt=""/>
                     <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
@@ -203,7 +203,7 @@ export default function
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                 <div class="img-box">
-                    <img src="assets/images/p7.png" alt=""/>
+                    <img src="ReactWeb/assets/images/p7.png" alt=""/>
                     <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
@@ -232,7 +232,7 @@ export default function
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                 <div class="img-box">
-                    <img src="assets/images/p8.png" alt=""/>
+                    <img src="ReactWeb/assets/images/p8.png" alt=""/>
                     <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart
@@ -261,7 +261,7 @@ export default function
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                 <div class="img-box">
-                    <img src="assets/images/p9.png" alt=""/>
+                    <img src="ReactWeb/assets/images/p9.png" alt=""/>
                     <a href="#" class="add_cart_btn">
                     <span>
                         Add To Cart

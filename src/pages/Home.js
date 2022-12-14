@@ -33,7 +33,7 @@ export default function Home() {
                             </div>
                             <div class="col-md-6">
                                 <div class="img-box">
-                                    <img src="assets/images/slider-img.png" alt=""/>
+                                    <img src="ReactWeb/assets/images/slider-img.png" alt=""/>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@ export default function Home() {
                             </div>
                             <div class="col-md-6">
                                 <div class="img-box">
-                                    <img src="assets/images/slider-img.png" alt=""/>
+                                    <img src="ReactWeb/assets/images/slider-img.png" alt=""/>
                                 </div>
                             </div>
                         </div>
@@ -83,7 +83,7 @@ export default function Home() {
                             </div>
                             <div class="col-md-6">
                                 <div class="img-box">
-                                    <img src="assets/images/slider-img.png" alt=""/>
+                                    <img src="ReactWeb/assets/images/slider-img.png" alt=""/>
                                 </div>
                             </div>
                         </div>
@@ -119,7 +119,7 @@ export default function Home() {
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                     <div class="img-box">
-                        <img src="assets/images/p1.png" alt=""/>
+                        <img src="ReactWeb/assets/images/p1.png" alt=""/>
                         <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
@@ -148,7 +148,7 @@ export default function Home() {
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                     <div class="img-box">
-                        <img src="assets/images/p2.png" alt=""/>
+                        <img src="ReactWeb/assets/images/p2.png" alt=""/>
                         <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
@@ -177,7 +177,7 @@ export default function Home() {
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                     <div class="img-box">
-                        <img src="assets/images/p3.png" alt=""/>
+                        <img src="ReactWeb/assets/images/p3.png" alt=""/>
                         <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
@@ -206,7 +206,7 @@ export default function Home() {
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                     <div class="img-box">
-                        <img src="assets/images/p4.png" alt=""/>
+                        <img src="ReactWeb/assets/images/p4.png" alt=""/>
                         <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
@@ -235,7 +235,7 @@ export default function Home() {
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                     <div class="img-box">
-                        <img src="assets/images/p5.png" alt=""/>
+                        <img src="ReactWeb/assets/images/p5.png" alt=""/>
                         <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
@@ -264,7 +264,7 @@ export default function Home() {
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                     <div class="img-box">
-                        <img src="assets/images/p6.png" alt=""/>
+                        <img src="ReactWeb/assets/images/p6.png" alt=""/>
                         <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
@@ -293,7 +293,7 @@ export default function Home() {
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                     <div class="img-box">
-                        <img src="assets/images/p7.png" alt=""/>
+                        <img src="ReactWeb/assets/images/p7.png" alt=""/>
                         <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
@@ -322,7 +322,7 @@ export default function Home() {
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                     <div class="img-box">
-                        <img src="assets/images/p8.png" alt=""/>
+                        <img src="ReactWeb/assets/images/p8.png" alt=""/>
                         <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
@@ -351,7 +351,7 @@ export default function Home() {
             <div class="col-sm-6 col-lg-4">
                 <div class="box">
                     <div class="img-box">
-                        <img src="assets/images/p9.png" alt=""/>
+                        <img src="ReactWeb/assets/images/p9.png" alt=""/>
                         <a href="#" class="add_cart_btn">
                 <span>
                   Add To Cart
@@ -415,7 +415,7 @@ export default function Home() {
             </div>
             <div class="col-md-6 px-0">
                 <div class="img-box">
-                    <img src="assets/images/about-img.jpg" alt=""/>
+                    <img src="ReactWeb/assets/images/about-img.jpg" alt=""/>
                 </div>
             </div>
         </div>
@@ -437,7 +437,7 @@ export default function Home() {
             <div class="col-md-4">
                 <div class="box ">
                     <div class="img-box">
-                        <img src="assets/images/w1.png" alt=""/>
+                        <img src="ReactWeb/assets/images/w1.png" alt=""/>
                     </div>
                     <div class="detail-box">
                         <h5>
@@ -452,7 +452,7 @@ export default function Home() {
             <div class="col-md-4">
                 <div class="box ">
                     <div class="img-box">
-                        <img src="assets/images/w2.png" alt=""/>
+                        <img src="ReactWeb/assets/images/w2.png" alt=""/>
                     </div>
                     <div class="detail-box">
                         <h5>
@@ -467,7 +467,7 @@ export default function Home() {
             <div class="col-md-4">
                 <div class="box ">
                     <div class="img-box">
-                        <img src="assets/images/w3.png" alt=""/>
+                        <img src="ReactWeb/assets/images/w3.png" alt=""/>
                     </div>
                     <div class="detail-box">
                         <h5>
@@ -523,7 +523,7 @@ export default function Home() {
                             </div>
                             <div class="client-id">
                                 <div class="img-box">
-                                    <img src="assets/images/client.jpg" alt=""/>
+                                    <img src="ReactWeb/assets/images/client.jpg" alt=""/>
                                 </div>
                                 <div class="name">
                                     <h5>
@@ -561,7 +561,7 @@ export default function Home() {
                             </div>
                             <div class="client-id">
                                 <div class="img-box">
-                                    <img src="assets/images/client.jpg" alt=""/>
+                                    <img src="ReactWeb/assets/images/client.jpg" alt=""/>
                                 </div>
                                 <div class="name">
                                     <h5>
@@ -599,7 +599,7 @@ export default function Home() {
                             </div>
                             <div class="client-id">
                                 <div class="img-box">
-                                    <img src="assets/images/client.jpg" alt=""/>
+                                    <img src="ReactWeb/assets/images/client.jpg" alt=""/>
                                 </div>
                                 <div class="name">
                                     <h5>

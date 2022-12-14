@@ -38,7 +38,7 @@ export default function
       </div>
       <div class="col-md-6 px-0">
         <div class="img-box">
-          <img src="images/about-img.jpg" alt=""/>
+          <img src="ReactWeb/assets/about-img.jpg" alt=""/>
         </div>
       </div>
     </div>

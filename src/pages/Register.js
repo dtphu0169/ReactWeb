@@ -85,9 +85,9 @@ export default function
                                     You have an account already?
                                 </span>
 
-                                <a class="txt2" href="/login">
+                                <Link class="txt2" to="/login">
                                     Sign In
-                                </a>
+                                </Link>
                             </div>
                         </form>
                     </div>

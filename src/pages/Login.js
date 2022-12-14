@@ -89,9 +89,9 @@ export default function
                                     Don’t have an account?
                                 </span>
 
-                                <a class="txt2" href="/register">
+                                <Link class="txt2" to="/register">
                                     Sign Up
-                                </a>
+                                </Link>
                             </div>
                         </form>
                     </div>

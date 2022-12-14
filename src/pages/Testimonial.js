@@ -49,7 +49,7 @@ export default function
               </div>
               <div class="client-id">
                 <div class="img-box">
-                  <img src="assets/images/client.jpg" alt=""/>
+                  <img src="ReactWeb/assets/images/client.jpg" alt=""/>
                 </div>
                 <div class="name">
                   <h5>
@@ -81,7 +81,7 @@ export default function
               </div>
               <div class="client-id">
                 <div class="img-box">
-                  <img src="assets/images/client.jpg" alt=""/>
+                  <img src="ReactWeb/assets/images/client.jpg" alt=""/>
                 </div>
                 <div class="name">
                   <h5>
@@ -113,7 +113,7 @@ export default function
               </div>
               <div class="client-id">
                 <div class="img-box">
-                  <img src="assets/images/client.jpg" alt=""/>
+                  <img src="ReactWeb/assets/images/client.jpg" alt=""/>
                 </div>
                 <div class="name">
                   <h5>
