@@ -1,5 +1,11 @@
-Đây là dự án luyện tập reactjs đưa template html vào và thao tác trên reactjs
+Demo: https://dtphu0169.github.io/ReactWeb
 
+## Đây là dự án luyện tập đưa template html vào và xử lí bằng reactjs
+1. Chức năng thực hiện
+2. Chạy dự án trên localhost
+
+
+## Chức năng thực hiện
 1. Đăng kí
 Bạn có thể đăng kí bằng cách nhấn nút login phía bên góc trên bên phải màn hình và ấn dòng chữ Sign In
 Thông tin tài khoản đăng kí thành công sẽ được lưu lại trên localStorage
@@ -12,6 +18,12 @@ Tài khoản đăng nhập thành công sẽ được lưu trên session
 3. Đăng xuất
 Khi đăng nhập thành công, bạn có thể nhấn nút Logout xuất hiện bên góc trên bên phải màn hình để logout
 Sau khi ấn Logout, thông tin tài khoản trên session sẽ được huỷ bỏ
+
+## Chạy dự án trên localhost
+
+Để chạy trên localhost bạn cần chuyển về phiên bản commit Initialize project with login,register,logout (b83d4aa6b859eb89c6ccf2eaf50e83c5eb4324bf) bằng cách thực hiện các lệnh sau:
+> git reset --hard b83d4aa6b859eb89c6ccf2eaf50e83c5eb4324bf
+
 
 # Getting Started with Create React App
 
