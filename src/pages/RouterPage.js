@@ -15,12 +15,12 @@ RouterPage() {
         <Router basename="/ReactWeb">
             <Routes>
                 <Route exact path="/" element={<Home/>}></Route>
-                <Route path='/about' element={<About/>}></Route>
-                <Route path='/product' element={<Product/>}></Route>
-                <Route path='/testimonial' element={<Testimonial/>}></Route>
-                <Route path='/why' element={<Why/>}></Route>
-                <Route path='/login' element={<Login/>}></Route>
-                <Route path='/register' element={<Register/>}></Route>
+                <Route exact path='/about' element={<About/>}></Route>
+                <Route exact path='/product' element={<Product/>}></Route>
+                <Route exact path='/testimonial' element={<Testimonial/>}></Route>
+                <Route exact path='/why' element={<Why/>}></Route>
+                <Route path='/ReactWeb/login' element={<Login/>}></Route>
+                <Route path='/ReactWeb/register' element={<Register/>}></Route>
             </Routes>
         </Router>
         
